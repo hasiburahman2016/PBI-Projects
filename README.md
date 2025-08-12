@@ -54,7 +54,11 @@ The objective is to identify key drivers of revenue and profitability, evaluate 
 Data is segmented by country, business type, product category, and colour, with emphasis on both unit sales and financial performance metrics such as total sales value, gross profit, and channel contribution.
 
 ---
-
+## Demo
+<p align="center">
+  <img src="https://github.com/hasiburahman2016/PBI-Projects/blob/main/Regional%20sales/RegionalSales.gif" alt="RegionalSales" />
+</p>
+---
 ## Summary
 
 - **Overall Performance:** 275K units sold, generating **$110M** in total sales with a **60% gross profit margin**.
