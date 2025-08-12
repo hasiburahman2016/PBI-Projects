@@ -24,7 +24,7 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 ---
 ---
 # Project 2: Pizza Sales Report – 2015
-
+---
 This report delivers a snapshot of pizza sales performance from **January to December 2015**, highlighting key business insights through interactive Power BI visualisations.
 
 ### ![Link to report](https://github.com/hasiburahman2016/PBI-Pizza-Sales-Report)
@@ -91,7 +91,6 @@ Data is segmented by country, business type, product category, and colour, with 
 - Top product category: Bikes ($6.6M).
 </details>
 
----
 
 ### Key Insights
 - Bikes are the primary revenue driver globally, with the USA as the dominant market.
