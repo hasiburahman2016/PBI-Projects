@@ -1,5 +1,5 @@
 # Power BI Projects
-
+<h2><span style="color:#d73a49;">Project 1: Australian Primary and Secondary School Data Analysis</span>:</h2>
 # Project 1:
 # Australian Primary and Secondary School Data Analysis
 
