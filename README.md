@@ -1,9 +1,9 @@
 # Power BI Portfolio Projects
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualisation, business intelligence, and analytics using Power BI.
 
-
+---
 # Project 1:  Australian Primary and Secondary School Data Analysis
-
+---
 ### ![Link to the report](https://github.com/hasiburahman2016/PowerBI_Australia-Primary-Secondary-Education-data)
 
 ## Demo
@@ -42,9 +42,10 @@ This report delivers a snapshot of pizza sales performance from **January to Dec
 </p>
 
 ---
+
 ---
 # Project 3: Regional Product Sales Analysis Report (2005–2014)
-
+---
 
 ## Introduction
 This report provides an in-depth analysis of global sales performance from **2005 to 2014**, covering sales channels, product categories, and regional market dynamics.  
