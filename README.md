@@ -8,7 +8,7 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 
 ## Demo
 <p align="center">
-  <img src="https://github.com/hasiburahman2016/PBI-Projects/blob/main/Australia%20Education/AustraliaEdu.gif" alt="AustraliaEdu" />
+  <img src="https://github.com/hasiburahman2016/PBI-Projects/blob/main/Australia%20Education/AustEdu.gif" alt="AustEdu" />
 </p>
 
 
