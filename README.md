@@ -21,6 +21,8 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 - Gender distribution is balanced overall, but **secondary school shows a male skew**  
 - **Student–staff ratio is ~9.5:1**, with a predominantly female workforce  
 
+---
+
 # Project 2: Pizza Sales Report – 2015
 
 This report delivers a snapshot of pizza sales performance from **January to December 2015**, highlighting key business insights through interactive Power BI visualisations.
