@@ -1,7 +1,27 @@
 # PBI-Projects
 Power BI Projects
 
+# Australian Primary and Secondary School Data Analysis
 
+
+# Executive Summary: National Primary and Secondary School Data Analysis (2006–2024)
+
+![Link to the report](https://github.com/hasiburahman2016/PowerBI_Australia-Primary-Secondary-Education-data)
+
+## Demo
+<p align="center">
+  <img src="https://github.com/hasiburahman2016/PBI-Projects/blob/main/Australia%20Education/AustraliaEdu.gif" alt="AustraliaEdu" />
+</p>
+
+
+---
+## Key Highlights
+
+- National student population grew by approximately **22%** from 2006 to 2024  
+- **Government schools** dominate with over **65%** of total enrollments  
+- **Independent schools** recorded the highest percentage growth (**56%**)  
+- Gender distribution is balanced overall, but **secondary school shows a male skew**  
+- **Student–staff ratio is ~9.5:1**, with a predominantly female workforce  
 
 
 # Pizza Sales Report – 2015
