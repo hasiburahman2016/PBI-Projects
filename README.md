@@ -39,15 +39,14 @@ This report delivers a snapshot of pizza sales performance from **January to Dec
 </p>
 
 
-# Project 3: Regional Product Sales Analysis
+# Project 3: Regional Product Sales Analysis Report (2005–2014)
 
-# Global Sales Analysis Report (2005–2014)
 
 ## Introduction
 This report provides an in-depth analysis of global sales performance from **2005 to 2014**, covering sales channels, product categories, and regional market dynamics.  
 The objective is to identify key drivers of revenue and profitability, evaluate market strengths and weaknesses, and highlight actionable insights for strategic decision-making.
 
-Data is segmented by country, business type, product category, and color, with emphasis on both unit sales and financial performance metrics such as total sales value, gross profit, and channel contribution.
+Data is segmented by country, business type, product category, and colour, with emphasis on both unit sales and financial performance metrics such as total sales value, gross profit, and channel contribution.
 
 ---
 
