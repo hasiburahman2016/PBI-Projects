@@ -25,6 +25,7 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 
 This report delivers a snapshot of pizza sales performance from **January to December 2015**, highlighting key business insights through interactive Power BI visualisations.
 
+### ![Link to report](https://github.com/hasiburahman2016/PBI-Pizza-Sales-Report)
 ## Key Highlights
 
 - **Peak Sales Periods** → Fridays, Saturdays, and the months of January & July.
