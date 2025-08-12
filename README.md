@@ -4,7 +4,7 @@ Power BI Projects
 
 
 
-#Pizza Sales Report – 2015
+# Pizza Sales Report – 2015
 
 This report delivers a snapshot of pizza sales performance from **January to December 2015**, highlighting key business insights through interactive Power BI visualisations.
 
