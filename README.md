@@ -4,7 +4,7 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 
 # Project 1:  Australian Primary and Secondary School Data Analysis
 
-![Link to the report](https://github.com/hasiburahman2016/PowerBI_Australia-Primary-Secondary-Education-data)
+### ![Link to the report](https://github.com/hasiburahman2016/PowerBI_Australia-Primary-Secondary-Education-data)
 
 ## Demo
 <p align="center">
