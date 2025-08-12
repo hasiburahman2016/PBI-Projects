@@ -1,10 +1,7 @@
-# PBI-Projects
-Power BI Projects
+# Power BI Projects
 
+# Project 1:
 # Australian Primary and Secondary School Data Analysis
-
-
-# Executive Summary: National Primary and Secondary School Data Analysis (2006–2024)
 
 ![Link to the report](https://github.com/hasiburahman2016/PowerBI_Australia-Primary-Secondary-Education-data)
 
@@ -23,7 +20,7 @@ Power BI Projects
 - Gender distribution is balanced overall, but **secondary school shows a male skew**  
 - **Student–staff ratio is ~9.5:1**, with a predominantly female workforce  
 
-
+# Project 2:
 # Pizza Sales Report – 2015
 
 This report delivers a snapshot of pizza sales performance from **January to December 2015**, highlighting key business insights through interactive Power BI visualisations.
